@@ -1,4 +1,4 @@
-# superstore- Streamlit dashboard 
+# Superstore- Streamlit Dashboard 
 ## Project Overview
 This Project is an interactive Sales Dashboard built using Python to analyse retail data from the SuperStore dataset.
 The goal is to explore sales performance across regions, categories, and time, and extract usefull business insights.
