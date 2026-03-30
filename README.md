@@ -1,7 +1,6 @@
 # Superstore- Streamlit Dashboard 
-## Project Overview
-This Project is an interactive Sales Dashboard built using Python to analyse retail data from the SuperStore dataset.
-The goal is to explore sales performance across regions, categories, and time, and extract usefull business insights.
+## Business Problem
+Retail businesses need to monitor sales performance across regions, products, and customer segments in order to make data-driven decisions. This project aims to analyze data and build an interactive dashboard that helps stakeholders quickly identify trends, top-performing products, and areas of imporvement.
 ## Dashboard Preview 
 ### KPI Dashboard
 <img src="Images/KPI.png" width="700">
