@@ -55,3 +55,5 @@ This dashboard provides a clear and interactive way to:
 - Designing interactive dashboards for business users
 - Applying real-world data analysis techniques
 - Communicating insights effectively through visualization
+## Contact 
+Feel free to contact ikamali860@gmail.com for feedback or collaboration opportunities 
