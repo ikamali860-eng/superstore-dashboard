@@ -2,6 +2,28 @@
 ## Project Overview
 This Project is an interactive Sales Dashboard built using Python to analyse retail data from the SuperStore dataset.
 The goal is to explore sales performance across regions, categories, and time, and extract usefull business insights.
+## Dashboard Preview 
+### KPI Dashboard
+<img src="Images/KPI.png" width="700">
+
+### Sales by Category & Time
+<img src="Images/Sales by category & time.png" width="700">
+
+### Sales by Region & Top 10 Products
+<img src="Images/Sales by region & Top 10 products.png" width="700">
+
+### Sales by State 
+<img src="Images/Sales by state.png" width="700">
+
+### Sales by Customer Segment & Heatmap
+<img src="Images/Sales by segment & heatmap.png" width="700">
+
+### Monthly Sales Trend
+<img src="Images/Monthly sales trend.png" width="700">
+
+### Pareto Analysis (80/20 Rule)
+<img src="Images/Pareto analysis.png" width="700">
+
 ## Objectives 
 - Track overall sales performance using key metrics (KPIs)
 - Identify top-performing products and categories
