@@ -16,7 +16,7 @@ The goal is to explore sales performance across regions, categories, and time, a
 <img src="Images/Sales by state.png" width="700">
 
 ### Sales by Customer Segment & Heatmap
-<img src="Images/Sales by segment & heatmap.png" width="700">
+<img src="Images/Sales by customer segment & heatmap.png" width="700">
 
 ### Monthly Sales Trend
 <img src="Images/Monthly sales trend.png" width="700">
